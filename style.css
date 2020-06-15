@@ -1,0 +1,33 @@
+.primeira-pagina {
+    background-color: lightblue;
+    background-image: url(/img/fundo.jpg);
+}
+.segunda-pagina {
+    background-color: lightblue;
+    background-image: url(/img/fundo.jpg);
+}
+.terceira-pagina {
+    background-color: lightblue;
+    background-image: url(/img/fundo.jpg);
+}
+.cadastro-1 {
+    background-color: lightblue;
+    background-image: url(/img/fundo.jpg);
+    }
+.quarta-pagina {
+    background-color: lightblue;
+    background-image: url(/img/fundo.jpg);
+}
+ .quinta-pagina{
+    background-color: #e0f2f1;
+    background-image: url(/img/fundo.jpg);
+    
+}
+.ultima-pagina {
+    background-color: #e0f2f1;
+    background-image: url(/img/fundo.jpg);
+
+}
+.homepage {
+    font-size: 130%;
+}
